@@ -9,13 +9,13 @@
 
 **获取**：通过 `https://github.com/java-a/lab2`，获取。
 
-**提交**：将提交物放到自己lab2的文件夹中，将文件夹压缩，压缩文件名应为你的 `学号_姓名` （如`13302010100_袁珺`），提交至 `FTP` 站点（`ftp://10.132.141.33`）本课程文件夹的`work_upload` 文件夹下。
+**提交**：将提交物放到自己lab2的文件夹中，将文件夹压缩，压缩文件名应为你的 `学号_姓名` （如`13302010100_袁珺`），提交至 `FTP` 站点（`ftp://10.132.141.33`）本课程文件夹的`work_upload/lab2` 文件夹下。
 
 **提交物**：本次lab只需提交`lab2_2.java` 及 `lab2_3.java`
 
 ## lab2 - part1 	Java API
 
-从FTP课程文件夹的material中下载 `api.zip` ，解压后打开 `index.html` ，即可开始查询java中常用的一些api。下面让我们开始尝试查一些数学相关的api。
+从FTP课程文件夹的`LAB/lab2`中下载 `api.zip` ，解压后打开 `index.html` ，即可开始查询java中常用的一些api。下面让我们开始尝试查一些数学相关的api。
 
 在java中，一些基本的数学函数都在java.lang.Math这个类中，如 对数函数 `log`、余弦函数 `cos`、正弦函数 `sin` 、四舍五入 `round`、平方根 `sqrt` 等等。
 
